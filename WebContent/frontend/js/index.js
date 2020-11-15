@@ -1,0 +1,1 @@
+alert("You've entered the app home page");
